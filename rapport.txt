@@ -1,0 +1,16 @@
+
+[2025-04-03 15:46:30] Opération: Dépôt | Montant: 50000 | Client: FORGO Issouf
+[2025-04-03 15:46:49] Opération: Retrait | Montant: 25000 | Client: FORGO Issouf
+[2025-04-03 15:46:58] Opération: Consultation du solde | Montant: 100025000 | Client: FORGO Issouf
+[2025-04-03 15:47:40] Opération: Retrait | Montant: 100000000 | Client: FORGO Issouf
+[2025-04-03 15:47:45] Opération: Consultation du solde | Montant: 25000 | Client: FORGO Issouf
+[2025-04-03 16:37:46] Opération: Consultation du solde | Montant: 100000000 | Client: FORGO Issouf
+[2025-04-03 16:38:15] Opération: Retrait | Montant: 200000 | Client: FORGO Issouf
+[2025-04-03 16:38:22] Opération: Consultation du solde | Montant: 99800000 | Client: FORGO Issouf
+[2025-04-04 18:08:42] Opération: Consultation du solde | Montant: 250000 | Client: bam cheick
+[2025-04-04 18:08:58] Opération: Dépôt | Montant: 100000000 | Client: bam cheick
+[2025-04-04 18:09:01] Opération: Consultation du solde | Montant: 100250000 | Client: bam cheick
+[2025-04-04 18:15:22] Opération: Dépôt | Montant: 100000000 | Client: BAMBARA G. C. Aboubacar
+[2025-04-04 18:15:28] Opération: Consultation du solde | Montant: 600000000 | Client: BAMBARA G. C. Aboubacar
+[2025-04-04 18:15:48] Opération: Retrait | Montant: 50000000 | Client: BAMBARA G. C. Aboubacar
+[2025-04-04 18:15:52] Opération: Consultation du solde | Montant: 550000000 | Client: BAMBARA G. C. Aboubacar
